@@ -3,7 +3,7 @@ def main():
     # Comlete your code here
     ##################################################
     reg_hours = 40
-    reg_rate = 18.22
+    reg_rate = 18.25
     o_rate = 27.78
     workhours = int(input('Enter your work hours: '))
     normal_amount_earned = reg_hours * reg_rate
