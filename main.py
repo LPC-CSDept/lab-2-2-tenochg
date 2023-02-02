@@ -14,7 +14,7 @@ def main():
     
     print('Regular Hours:',reg_hours)
     print('Regular Charge:',normal_amount_earned)
-    print('Overtime Hours:',ot_hours)
+#     print('Overtime Hours:',ot_hours)
     print('Overtime Charge:',overtime_earned)
     print('Total Wage:',total_wage)
     
