@@ -12,7 +12,7 @@ def main():
     overtime_earned = ot_hours * o_rate
     total_wage = normal_amount_earned + overtime_earned
     
-    print('Regular Hours:',reg_hours)
+#     print('Regular Hours:',reg_hours)
     print('Regular Charge:',normal_amount_earned)
 #     print('Overtime Hours:',ot_hours)
     print('Overtime Charge:',overtime_earned)
